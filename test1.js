@@ -1,3 +1,4 @@
-console.log('Heeeeeey')
+console.log('Heeeeeeey')
 
-console.log("Bye");
+
+console.log("Bye")
