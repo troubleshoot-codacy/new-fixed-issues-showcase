@@ -1,3 +1,3 @@
-console.log('Heeeeey')
+console.log('Heeeeeey')
 
 console.log("Bye");
